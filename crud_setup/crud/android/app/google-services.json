@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85765577179",
+    "project_id": "construction-aid",
+    "storage_bucket": "construction-aid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85765577179:android:361926fe44d08b922e2ffe",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIJzQPTSai0ixuzgGxSkf2u2dl9D5-S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85765577179:android:737f3bc30707d91f2e2ffe",
+        "android_client_info": {
+          "package_name": "com.example.ui_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIJzQPTSai0ixuzgGxSkf2u2dl9D5-S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
